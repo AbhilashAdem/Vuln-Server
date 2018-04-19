@@ -5,7 +5,7 @@ import os
 import sys
 
 host="192.168.56.102" # Windows Virtual Machine IP
-port=9999 
+port=9999  # port on which Vulnserver is running on windows Virtual Machine
 
 #payload to be replaced here
 buf =  ""
